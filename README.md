@@ -1,9 +1,6 @@
 ## Leivy Oliveira 
 🖤 Aluno do ensino medio cursando alura.
 
-**Leivyoliv3ira/Leivyoliv3ira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 ### Boas vindas ao meu perfil :blue_heart
 
 Meu nome é Leivy oliveira
