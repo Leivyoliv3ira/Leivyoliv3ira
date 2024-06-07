@@ -13,4 +13,4 @@ Meu nome é Leivy oliveira
 
 oooo124236433XSP@al.educacao.sp.gov.br
 
-![descrição do GIF](link GIF do Tenor)
+![descrição do GIF](https://i.pinimg.com/originals/c1/a8/df/c1a8dffe0c9e0c36019be23835809708.gif)
