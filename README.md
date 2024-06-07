@@ -12,7 +12,7 @@ Meu nome é Leivy oliveira
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-### Você pode entrar em contato comigo :mailbox
+### Você pode entrar em contato comigo.
 
 oooo124236433XSP@al.educacao.sp.gov.br
 
