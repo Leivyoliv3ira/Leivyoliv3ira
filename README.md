@@ -4,12 +4,16 @@
 **Leivyoliv3ira/Leivyoliv3ira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+### Boas vindas ao meu perfil :blue_heart
 
-- 🔭 I’m currently working on ......
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Meu nome é Leivy oliveira
 
+- Estou estudando na [Alura](https://www.alura.com.br)
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
+
+### Você pode entrar em contato comigo :mailbox
+
+oooo124236433XSP@al.educacao.sp.gov.br
+
+![descrição do GIF](link GIF do Tenor)
